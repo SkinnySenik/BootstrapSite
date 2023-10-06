@@ -1,0 +1,11 @@
+.margins{
+    margin-top: 75px;
+}
+
+.link1{
+    color:white;
+}
+
+.link1:hover{
+    color: #c0c0c0;
+}
